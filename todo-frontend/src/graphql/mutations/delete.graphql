@@ -1,0 +1,3 @@
+mutation Delete ($deleteTaskId: Float!) {
+  deleteTask(id: $deleteTaskId)
+}

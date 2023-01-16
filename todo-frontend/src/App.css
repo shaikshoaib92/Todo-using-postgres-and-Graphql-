@@ -1,0 +1,29 @@
+.App{
+  display: flex;
+  justify-content: center;
+}
+
+
+
+.input_feild{
+ margin-top: 25px;
+ width: 70%;
+ border: none;
+ border-bottom: 2px solid purple;
+}
+
+.input_button{
+  margin-left: 10px;
+  border-radius: 5px
+}
+
+.input_button:hover{
+  background: #ff96ad;
+  box-shadow: 0 0 5px #ff96ad, 0 0 25px #ff96ad, 0 0 50px #ff96ad, 0 0 200px #ff96ad;
+}
+
+
+.hero{
+  display: flex;
+  justify-content: left;
+}
